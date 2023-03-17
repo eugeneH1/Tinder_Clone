@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tinder Clone</string>
+    <string name="startup_button_log_in">Log in</string>
+    <string name="startup_button_signup">Sign Up</string>
+</resources>
